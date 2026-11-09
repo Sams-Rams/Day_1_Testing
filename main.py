@@ -1,0 +1,5 @@
+print("She plays guitar.")
+print("She is 17.")
+print("Her favorite color is emerald.")
+print("She is interested in astro physics")
+print("the last book she read is the Seven husbands of Eveyln Hugo")
